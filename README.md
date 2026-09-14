@@ -31,9 +31,9 @@ This analysis compares:
 - The volcano plot showed confident, significant hits in both directions.
 - A heatmap of the top 30 genes clustered samples cleanly into two groups by condition.
 
-![PCA plot](figures/pca_plot.png)
-![Volcano plot](figures/volcano_plot.png)
-![Heatmap](figures/heatmap.png)
+[PCA plot](figures/pca_plot.png)
+[Volcano plot](figures/volcano_plot.png)
+[Heatmap](figures/heatmap.png)
 
 ## Key finding
 
