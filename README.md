@@ -33,7 +33,7 @@ This analysis compares:
 
 ![PCA plot](https://github.com/sophiawright-alt/ube2i-knockout-rnaseq/blob/main/mCherry%20vs%20Cre/figures/pca_plot.png?raw=true)
 ![Volcano plot](https://github.com/sophiawright-alt/ube2i-knockout-rnaseq/blob/main/mCherry%20vs%20Cre/figures/volcano_plot.png?raw=true)
-![Heatmap](figures/heatmap.png)
+![Heatmap](https://github.com/sophiawright-alt/ube2i-knockout-rnaseq/blob/main/mCherry%20vs%20Cre/figures/heatmap.png?raw=true)
 
 ## Key finding
 
