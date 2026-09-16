@@ -4,7 +4,7 @@ An RNA-seq differential expression analysis investigating how loss of SUMOylatio
 
 ## Background
 
-SUMOylation is a regulatory system where cells attach a small protein tag (SUMO) onto other proteins to control their activity, location, or stability. The gene *Ube2i* is the single essential enzyme required for this process. Prior published work found that SUMOylation maintains "tumor-initiating cells" — stem-cell-like cancer cells capable of starting new tumors — in mammary tissue, and that blocking it selectively damages this population without harming normal stem cells.
+SUMOylation is a regulatory system where cells attach a small protein tag (SUMO) onto other proteins to control their activity, location, or stability. The gene *Ube2i* is the single essential enzyme required for this process. Prior published work found that SUMOylation maintains "tumor-initiating cells", stem-cell-like cancer cells capable of starting new tumors, in mammary tissue, and that blocking it selectively damages this population without harming normal stem cells.
 
 This analysis compares:
 - **mCherry** - control cells, SUMOylation intact
@@ -37,4 +37,4 @@ This analysis compares:
 
 ## Key finding
 
-The three most statistically significant genes overall — **Pkp1**, **Sbsn**, and **Ivl** — are all established markers of terminal epithelial differentiation, and all were strongly upregulated when SUMOylation was removed. This is consistent with the published mechanism
+The three most statistically significant genes overall, **Pkp1**, **Sbsn**, and **Ivl**, are all established markers of terminal epithelial differentiation, and all were strongly upregulated when SUMOylation was removed. This is consistent with the published mechanism
