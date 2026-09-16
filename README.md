@@ -7,8 +7,8 @@ An RNA-seq differential expression analysis investigating how loss of SUMOylatio
 SUMOylation is a regulatory system where cells attach a small protein tag (SUMO) onto other proteins to control their activity, location, or stability. The gene *Ube2i* is the single essential enzyme required for this process. Prior published work found that SUMOylation maintains "tumor-initiating cells" — stem-cell-like cancer cells capable of starting new tumors — in mammary tissue, and that blocking it selectively damages this population without harming normal stem cells.
 
 This analysis compares:
-- **mCherry** — control cells, SUMOylation intact
-- **Cre** — cells with *Ube2i* knocked out via Cre recombinase, SUMOylation disabled
+- **mCherry** - control cells, SUMOylation intact
+- **Cre** - cells with *Ube2i* knocked out via Cre recombinase, SUMOylation disabled
 
 ## Dataset
 
