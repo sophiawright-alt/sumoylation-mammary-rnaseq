@@ -4,7 +4,7 @@ An RNA-seq differential expression analysis investigating how loss of SUMOylatio
 
 ## Background
 
-SUMOylation is a regulatory system where cells attach a small protein tag (SUMO) onto other proteins to control their activity, location, or stability. The gene *Ube2i* is the single essential enzyme required for this process. Prior published work found that SUMOylation maintains "tumor-initiating cells", stem-cell-like cancer cells capable of starting new tumors, in mammary tissue, and that blocking it selectively damages this population without harming normal stem cells.
+SUMOylation is a regulatory system where cells attach a small protein tag (SUMO) onto other proteins to control their activity, location, or stability. The gene *Ube2i* is the single essential enzyme required for this process. Prior published work found that SUMOylation maintains "tumour-initiating cells", stem-cell-like cancer cells capable of starting new tumours, in mammary tissue, and that blocking it selectively damages this population without harming normal stem cells.
 
 This analysis compares:
 - **mCherry** - control cells, SUMOylation intact
@@ -19,7 +19,7 @@ This analysis compares:
 
 ## Methods
 
-1. Loaded raw counts and cleaned the data — renamed an unlabeled gene column, removed 4 rows with non-standard numeric placeholder IDs instead of real gene symbols, and rounded fractional counts to whole numbers as required by DESeq2.
+1. Loaded raw counts and cleaned the data, renamed an unlabelled gene column, removed 4 rows with non-standard numeric placeholder IDs instead of real gene symbols, and rounded fractional counts to whole numbers as required by DESeq2.
 2. Ran differential expression analysis with **DESeq2** (R/Bioconductor), testing all genes with sufficient read counts.
 3. Used a significance threshold of adjusted p-value (padj) < 0.05.
 
