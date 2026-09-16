@@ -31,7 +31,7 @@ This analysis compares:
 - The volcano plot showed confident, significant hits in both directions.
 - A heatmap of the top 30 genes clustered samples cleanly into two groups by condition.
 
-![PCA plot](mCherry%20vs%Cre/figures/pca_plot.png)
+[PCA plot](https://github.com/sophiawright-alt/ube2i-knockout-rnaseq/blob/main/mCherry%20vs%20Cre/figures/pca_plot.png)
 ![Volcano plot](https://github.com/sophiawright-alt/ube2i-knockout-rnaseq/blob/main/mCherry%20vs%20Cre/figures/volcano_plot.png?raw=true)
 ![Heatmap](https://github.com/sophiawright-alt/ube2i-knockout-rnaseq/blob/main/mCherry%20vs%20Cre/figures/heatmap.png?raw=true)
 
